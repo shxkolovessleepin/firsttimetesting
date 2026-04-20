@@ -46,6 +46,10 @@ public class Main {
             }
         }
         System.out.println("Sum = " + sum);
+
+        //bu cu tan bao
+
+
         executor.shutdown();
     }
 }
